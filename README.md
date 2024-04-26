@@ -24,7 +24,7 @@ Domain:  Finance
 
 Dataset Description
 
-We will be using StatisticsProjectStockDataset.xlsx Dataset attached.
+We will be using StatisticsProjectStockDataset.xlsx Dataset attached.<br>
 Given here are the live data stock values of 3 major companies Miscrosoft, Apple and Tesla. Their
 live data have been extracted from the website of Yahoo Finance. The dataset contains their stock
 values between 2018 and 2023 on daily basis. The dataset also contain S&P 500 values as well,
