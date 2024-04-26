@@ -5,14 +5,14 @@ Statistical report of Apple, Tesla and Microsoft stock prices
 
 DESCRIPTION
 
-Background 
+**Background** 
 
 According to capital Asset Pricing Model, the slope coefficient Beta (B1) in a simple regression of
 the excess return on the stock (eg. app%change) vs. the stock return on the market (S&P%change) is
 a measure of relative risk of the stock.
 Stocks with higher Betas are more risky and therefore should have higher returns in the market.
 
-Objective
+**Objective**
 
 Provide a comparative descriptive statistics on the price valued of each stock
 displaying charts to show the trend of each stock between (2018 - 2023)
@@ -20,9 +20,9 @@ Include charts like scatter plot, histogram etc to show the price trend of the
 stock value.
 Include the value of descriptive stats like mean, median, deviation etc. 
 
-Domain:  Finance
+**Domain:**  Finance
 
-Dataset Description
+**Dataset Description**
 
 We will be using StatisticsProjectStockDataset.xlsx Dataset attached.<br>
 Given here are the live data stock values of 3 major companies Miscrosoft, Apple and Tesla. Their
